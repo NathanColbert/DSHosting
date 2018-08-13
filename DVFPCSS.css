@@ -1,0 +1,11 @@
+pre.long {
+  white-space: pre !important;
+  overflow-y: scroll !important;
+  overflow-x: scroll !important;
+  height: 40vh !important; 
+}
+
+/* Whole document: */
+body{
+  font-family: Garamond;
+}
